@@ -2,9 +2,6 @@
 
 A basic and visually appealing project demonstrating the use of **GSAP (GreenSock Animation Platform)** to animate elements on a webpage. This project is perfect for beginners who are learning how to use GSAP for smooth, powerful JavaScript animations.
 
-## 🚀 Live Demo
-
-
 ## 📁 Project Structure
 
 gsap-animation/
